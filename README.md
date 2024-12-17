@@ -1,6 +1,6 @@
 # Weather App
 
-This is a weather application built using React and Vue.js, powered by the OpenWeather API.
+This weather application is built using React and Vue.js, powered by the OpenWeather API.
 
 ## Features
 
